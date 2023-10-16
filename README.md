@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Atharva1723)](https://git.io/streak-stats)
 <!--
 **Atharva1723/Atharva1723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
