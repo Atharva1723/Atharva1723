@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 -->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Atharva1723&count_private=true&theme=tokyonight&showicons=true)]()
 
+### Novu Contributor Badge
+
+<a href="https://novu.co/contributors/Atharva1723/"><img src="https://contributors.novu.co/profiles/Atharva1723-small.jpg" height="170" width="450" alt="" /></a>
+
