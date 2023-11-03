@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ### Novu Contributor Badge
 
-<a href="https://novu.co/contributors/Atharva1723/"><img src="https://contributors.novu.co/profiles/Atharva1723-small.jpg" height="170" width="450" alt="" /></a>
+<a href="https://novu.co/contributors/Atharva1723/">
 
