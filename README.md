@@ -5,6 +5,7 @@ Hi there! My name is Atharva Kulkarni, and I am an developer. I have always been
 
 * 🌍  I'm based in Maharashtra,India
 * ✉️  You can contact me at: [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Atharva172003) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=#0d6da8)](https://www.linkedin.com/in/atharva-kulkarni-0b2415207/)
+* 🧠  I'm currently learning React and Django. 
 * 🧠  I'm learning DevOps,AI/ML and learning  cybersecurity as my side hobby.
 * 🤝  I'm open to collaborating on Interesting projects
 * 📱 I am currently working on a personal project based on Node and Java to make an Android app.
