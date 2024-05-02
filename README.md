@@ -1,14 +1,14 @@
 ### Hi there 👋
 # My small Introduction:
 
-Hi there! My name is Atharva Kulkarni, and I am an developer. I have always been interested in technology and have a passion for creating innovative solutions to problems. In addition to  development, I am also interested in artificial intelligence and machine learning. I am constantly seeking to improve my skills and expand my knowledge in these areas. In my free time, I enjoy tinkering with new technologies, tackling challenging problems, and contributing to open source. I am excited to continue my journey in the field of technology and am looking forward to working on interesting projects and collaborating with like-minded individuals.
+Hi there! My name is Atharva Kulkarni, and I am an developer. I have always been interested in technology and have a passion for creating innovative solutions to problems. In addition to Web development, I am also interested in artificial intelligence and machine learning. I am constantly seeking to improve my skills and expand my knowledge in these areas. In my free time, I enjoy tinkering with new technologies, tackling challenging problems, and contributing to open source. I am excited to continue my journey in the field of technology and am looking forward to working on interesting projects and collaborating with like-minded individuals.
 
 * 🌍  I'm based in Maharashtra,India
 * ✉️  You can contact me at: [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Atharva172003) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=#0d6da8)](https://www.linkedin.com/in/atharva-kulkarni-0b2415207/)
 * 🧠  I'm currently learning React and Django. 
 * 🧠  I'm learning DevOps,AI/ML and learning  cybersecurity as my side hobby.
 * 🤝  I'm open to collaborating on Interesting projects
-* 📱 I am currently working on a personal project based on Node and Java to make an Android app.
+* 📱 I am currently working on a personal project based on Node and React to make an Web app.
 * ⚡  I'm secretly working on a project that I'll make public soon....
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Atharva1723&count_private=true&theme=tokyonight&showicons=true)]()
