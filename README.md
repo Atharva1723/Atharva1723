@@ -9,6 +9,9 @@ Hi there! My name is Atharva Kulkarni, and I am an developer. I have always been
 * 🧠  I'm learning DevOps,AI/ML and learning  cybersecurity as my side hobby.
 * 🤝  I'm open to collaborating on Interesting projects
 
+### Badge Board
+![Holopin](https://holopin.onrender.com/atharva1723?style=flat-square)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Atharva1723&count_private=true&theme=tokyonight&showicons=true)]()
 ### Socials
 
