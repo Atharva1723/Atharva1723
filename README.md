@@ -10,7 +10,7 @@ Hi there! My name is Atharva Kulkarni, and I am an developer. I have always been
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Badge Board
-![Holopin](https://holopin.io/@atharva1723?style=flat-square)
+![Holopin](https://holopin.io/@atharva1723)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Atharva1723&count_private=true&theme=tokyonight&showicons=true)]()
 ### Socials
